@@ -1,1 +1,0 @@
-#friendship_day
